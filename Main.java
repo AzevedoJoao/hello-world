@@ -4,6 +4,6 @@ class Main {
   public static void main(String[] args) {
     String name = JOptionPane.showInputDialog("Type your name:");
     System.out.println("Hello "+name+" and welcome!");
-
+    System.out.println("Atualizado no GITHUB");
   }
 }
